@@ -147,5 +147,5 @@ with open("output.wav", "wb") as f:
 ---
 
 <p align="center">
-  <b>🎙️ Text-to-Speech with Hugging Face — Bringing Words to Life with AI.</b>
+  <b> Text-to-Speech with Hugging Face — Bringing Words to Life with AI.</b>
 </p>
