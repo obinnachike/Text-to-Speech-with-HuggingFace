@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 *  Convert text into realistic human speech in seconds
 *  Supports multiple voices and languages
